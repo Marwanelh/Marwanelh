@@ -1,42 +1,50 @@
-# Hi, I'm Marwane Elhour
+# Hi, I'm Marwane Elhour 👋
 
-**Applied AI & Full-Stack Engineer** building production automation systems and web products from idea to deployment.
+**Applied AI & Full-Stack Engineer** building production automation systems, intelligent agent workflows, and low-latency retrieval pipelines.
 
-I co-founded **FillFlow**, an AI-assisted automation SaaS used by international schools and businesses across education, fitness, and hospitality. I work across lead capture, qualification and nurturing workflows, CRM integrations, routing, analytics, APIs, deployment, and production debugging.
+I co-founded **FillFlow**, an AI-assisted automation SaaS used by international schools and service businesses across education, fitness, and hospitality. I specialize in end-to-end delivery: from LLM orchestration, structured schemas, and CRM integrations to API design, deployment, and operational observability.
 
-I also co-founded **[Domovista](https://domovista.io/)**, a real-estate visualization product combining generated imagery, interactive 3D environments, digital twins, and smart-home experiences.
+---
 
-## What I bring
+## 🚀 Flagship Public AI Projects
 
-- Product ownership from customer problem to shipped software
-- Applied AI automation connected to real business workflows
-- Full-stack delivery with **Python, TypeScript, JavaScript, React, Next.js, Node.js, REST APIs, PostgreSQL, SQL, Docker, Git, Linux, and CI/CD**
-- Strong systems foundation from completing the **42 Common Core** and continuing with larger team-based web projects
-- Fast learning, clear debugging, and comfort working across the stack
+### 1. [Autonomous Lead Agent & Workflow Engine](https://github.com/Marwanelh/autonomous-lead-agent)
+> **Python · FastAPI · Pydantic v2 · MCP · PostgreSQL · Docker**
+- Production-grade autonomous lead intelligence and qualification agent with **Model Context Protocol (MCP)** tool execution.
+- Features strict **Pydantic v2 structured output validation**, stateful idempotency, and a **Human-in-the-Loop (HITL)** approval queue for high-value enterprise actions.
+- Full Docker Compose orchestration with automated unit and integration tests.
 
-## Selected public work
+### 2. [Production Hybrid RAG with Automated Evals](https://github.com/Marwanelh/hybrid-rag-evals)
+> **Python · pgvector · BM25 · FlashRank · Ragas · FastAPI**
+- Enterprise retrieval-augmented generation engine combining dense semantic embeddings (`pgvector`) and sparse lexical search (`BM25`) with cross-encoder **Reciprocal Rank Fusion (RRF)**.
+- Integrated automated evaluation suite measuring **Recall@K, Faithfulness, and Latency** across ground-truth regression test sets.
+- Guarantees zero-hallucination answers through strict chunk-level citation attribution.
 
-- **[TouchDesigner tools](https://github.com/Marwanelh/TouchDesigner)** — reusable components for face tracking, hand tracking, image classification, segmentation, and visual experiments
-- **[Agrochemicals consulting website](https://github.com/Marwanelh/agrochemicals-website)** — responsive business website with a live deployment
+### 3. [High-Performance LLM Gateway & Caching Proxy](https://github.com/Marwanelh/llm-gateway-proxy)
+> **Python · FastAPI · Redis · Asyncio · OpenAI SDK Compatible**
+- Asynchronous reverse proxy featuring **semantic caching with Redis** to serve recurring queries with `<15ms` latency at \$0 token cost.
+- Dynamic multi-provider fallback cascade (**Anthropic Claude 3.5 Sonnet → OpenAI GPT-4o → DeepSeek**) with automatic retry on rate limits (429) and real-time USD token cost telemetry.
 
-## Selected 42 and team projects
+---
 
-The source code for these projects is private to respect 42 Network's academic-integrity requirements.
+## 🛠 Tech Stack
 
-- **Minishell** — Unix shell implemented in C
-- **Webserv** — HTTP server implemented in C++
-- **Inception** — containerized infrastructure project built with Docker
-- **so_long** — 2D graphics project in C covering map validation, event handling, animation, collision detection, and memory management
-- **ft_transcendence** — authenticated, containerized real-time multiplayer and social web platform built by a four-person team
-- **Matcha** — full-stack matching platform built by a two-person team, covering authentication, matching and interaction workflows, responsive UI, backend APIs, and adversarial peer testing
-- **Music Room** — collaborative music application built by a three-person team, emphasizing multi-user workflows, defensive validation, and stable state handling
+- **AI & Retrieval:** LLM Orchestration, Prompt Engineering, Pydantic v2, Model Context Protocol (MCP), pgvector, Hybrid Retrieval (BM25 + Dense), Ragas Evaluation, Semantic Caching
+- **Backend & APIs:** Python (FastAPI, Asyncio), TypeScript, Node.js, REST APIs, WebSockets, PostgreSQL, Redis
+- **Frontend:** React, Next.js, Three.js / React Three Fiber, Tailwind CSS
+- **Systems & Infrastructure:** Docker, Docker Compose, Linux/Unix, Git, GitHub Actions (CI/CD), Nginx, C/C++ Systems Programming (42 Common Core Graduate, GPA 4.00)
 
-## Current direction
+---
 
-I am looking for full-time opportunities as an **Applied AI Engineer, AI Automation Engineer, AI Application Engineer, Full-Stack AI Engineer, Backend Engineer on AI products, or AI Solutions Engineer**. I am based in Bangkok and can work across time zones.
+## 🎓 Education & Background
 
-## Contact
+- **42 Bangkok @ KMITL** — Software Engineering / 42 Common Core (Completed, GPA 4.00/4.00, President's List 4 consecutive semesters).
+- **Previous:** IT Systems Support Specialist at Majorel (Casablanca, Morocco).
 
-- [LinkedIn](https://www.linkedin.com/in/marwanelh/)
-- [Email](mailto:marwan.elhour69@gmail.com)
+---
 
+## 📬 Contact & Links
+
+- **LinkedIn:** [linkedin.com/in/marwanelh](https://www.linkedin.com/in/marwanelh/)
+- **Email:** [marwan.elhour69@gmail.com](mailto:marwan.elhour69@gmail.com)
+- **Portfolio:** [Marwanelh on GitHub](https://github.com/Marwanelh)
