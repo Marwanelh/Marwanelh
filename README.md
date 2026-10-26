@@ -1,50 +1,55 @@
-# Hi, I'm Marwane Elhour 👋
+# Hi, I'm Marwane Elhour
 
-**Applied AI & Full-Stack Engineer** building production automation systems, intelligent agent workflows, and low-latency retrieval pipelines.
+**Applied AI & Full-Stack Engineer | Co-Founder of FillFlow**
 
-I co-founded **FillFlow**, an AI-assisted automation SaaS used by international schools and service businesses across education, fitness, and hospitality. I specialize in end-to-end delivery: from LLM orchestration, structured schemas, and CRM integrations to API design, deployment, and operational observability.
+I build and ship software for real business workflows. My work spans product discovery, frontend and backend development, API and CRM integrations, workflow automation, deployment, debugging, and client iteration.
 
----
+## Selected product work
 
-## 🚀 Flagship Public AI Projects
+### FillFlow — AI-assisted lead and workflow automation
 
-### 1. [Autonomous Lead Agent & Workflow Engine](https://github.com/Marwanelh/autonomous-lead-agent)
-> **Python · FastAPI · Pydantic v2 · MCP · PostgreSQL · Docker**
-- Production-grade autonomous lead intelligence and qualification agent with **Model Context Protocol (MCP)** tool execution.
-- Features strict **Pydantic v2 structured output validation**, stateful idempotency, and a **Human-in-the-Loop (HITL)** approval queue for high-value enterprise actions.
-- Full Docker Compose orchestration with automated unit and integration tests.
+I co-founded and helped build FillFlow, a production automation SaaS used by three international schools in Oman and businesses in fitness and hospitality.
 
-### 2. [Production Hybrid RAG with Automated Evals](https://github.com/Marwanelh/hybrid-rag-evals)
-> **Python · pgvector · BM25 · FlashRank · Ragas · FastAPI**
-- Enterprise retrieval-augmented generation engine combining dense semantic embeddings (`pgvector`) and sparse lexical search (`BM25`) with cross-encoder **Reciprocal Rank Fusion (RRF)**.
-- Integrated automated evaluation suite measuring **Recall@K, Faithfulness, and Latency** across ground-truth regression test sets.
-- Guarantees zero-hallucination answers through strict chunk-level citation attribution.
+My contributions include:
 
-### 3. [High-Performance LLM Gateway & Caching Proxy](https://github.com/Marwanelh/llm-gateway-proxy)
-> **Python · FastAPI · Redis · Asyncio · OpenAI SDK Compatible**
-- Asynchronous reverse proxy featuring **semantic caching with Redis** to serve recurring queries with `<15ms` latency at \$0 token cost.
-- Dynamic multi-provider fallback cascade (**Anthropic Claude 3.5 Sonnet → OpenAI GPT-4o → DeepSeek**) with automatic retry on rate limits (429) and real-time USD token cost telemetry.
+- Building lead-capture, qualification, nurturing, and routing workflows
+- Developing full-stack product features and operational dashboards
+- Integrating external APIs and CRM systems
+- Deploying, debugging, and improving workflows from client feedback
+- Turning ambiguous business processes into software that teams can use day to day
 
----
+The production repositories and client data are private under client confidentiality and ownership agreements. I can provide a confidential product walkthrough and discuss the architecture, engineering decisions, and problems I solved.
 
-## 🛠 Tech Stack
+### [Domovista](https://domovista.io/) — real-estate visualization product
 
-- **AI & Retrieval:** LLM Orchestration, Prompt Engineering, Pydantic v2, Model Context Protocol (MCP), pgvector, Hybrid Retrieval (BM25 + Dense), Ragas Evaluation, Semantic Caching
-- **Backend & APIs:** Python (FastAPI, Asyncio), TypeScript, Node.js, REST APIs, WebSockets, PostgreSQL, Redis
-- **Frontend:** React, Next.js, Three.js / React Three Fiber, Tailwind CSS
-- **Systems & Infrastructure:** Docker, Docker Compose, Linux/Unix, Git, GitHub Actions (CI/CD), Nginx, C/C++ Systems Programming (42 Common Core Graduate, GPA 4.00)
+As a co-founder and Full-Stack Product Engineer, I helped build a product for generated property imagery, interactive 3D environments, digital twins, and smart-home experiences. The prototype phase concluded in August 2026.
 
----
+### 42 engineering projects
 
-## 🎓 Education & Background
+I completed the 42 Common Core through hands-on systems and web projects, including:
 
-- **42 Bangkok @ KMITL** — Software Engineering / 42 Common Core (Completed, GPA 4.00/4.00, President's List 4 consecutive semesters).
-- **Previous:** IT Systems Support Specialist at Majorel (Casablanca, Morocco).
+- **Webserv** — HTTP server and networking fundamentals
+- **Minishell** — shell behavior, processes, pipes, signals, and file descriptors
+- **Inception** — containerized services, networking, and Linux operations
+- **ft_transcendence** — full-stack web product built in a team
+- **Matcha** and **Music Room** — collaborative full-stack applications
 
----
+Some 42 project source remains private to respect school rules. The public repositories on this profile show additional C and systems foundations.
 
-## 📬 Contact & Links
+## Stack
 
-- **LinkedIn:** [linkedin.com/in/marwanelh](https://www.linkedin.com/in/marwanelh/)
-- **Email:** [marwan.elhour69@gmail.com](mailto:marwan.elhour69@gmail.com)
-- **Portfolio:** [Marwanelh on GitHub](https://github.com/Marwanelh)
+`Python` · `TypeScript` · `JavaScript` · `React` · `Next.js` · `Node.js` · `REST APIs` · `PostgreSQL` · `SQL` · `Docker` · `Git` · `Linux` · `CI/CD`
+
+## What I bring
+
+- Product ownership from business problem to deployed system
+- Experience working directly with international clients
+- Fast debugging and iteration in production environments
+- Strong systems fundamentals from the 42 Common Core
+- Full-time availability across time zones
+
+## Contact
+
+- [LinkedIn](https://www.linkedin.com/in/marwanelh/)
+- [Email](mailto:marwan.elhour69@gmail.com)
+- Based in Bangkok, Thailand · Open to remote international work
