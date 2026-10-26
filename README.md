@@ -10,6 +10,14 @@ I build and ship software for real business workflows. My work spans product dis
 
 A runnable FastAPI reference implementation for validated lead intake, transparent qualification, routing, and human review. It includes typed API contracts, explicit workflow state, safe demo integration boundaries, Docker packaging, and automated tests. The project uses synthetic data and contains no client code.
 
+### [Provider Gateway Lab](https://github.com/Marwanelh/provider-gateway-lab)
+
+A local backend reference for validated provider requests, exact TTL caching, concurrency-safe rate limiting, retryable failover, and observed telemetry. External providers are replaced with deterministic demo adapters so the full system runs without credentials or fabricated integrations.
+
+### [Hybrid Search and Evaluation Lab](https://github.com/Marwanelh/hybrid-search-evals)
+
+A dependency-light retrieval lab combining BM25, hashed unigram and bigram features, Reciprocal Rank Fusion, source-linked results, and repeatable Recall@K and MRR evaluation on synthetic data.
+
 ## Selected product work
 
 ### FillFlow — AI-assisted lead and workflow automation
