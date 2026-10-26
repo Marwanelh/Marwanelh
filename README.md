@@ -4,6 +4,12 @@
 
 I build and ship software for real business workflows. My work spans product discovery, frontend and backend development, API and CRM integrations, workflow automation, deployment, debugging, and client iteration.
 
+## Public engineering proof
+
+### [Lead Workflow Engine](https://github.com/Marwanelh/lead-workflow-engine)
+
+A runnable FastAPI reference implementation for validated lead intake, transparent qualification, routing, and human review. It includes typed API contracts, explicit workflow state, safe demo integration boundaries, Docker packaging, and automated tests. The project uses synthetic data and contains no client code.
+
 ## Selected product work
 
 ### FillFlow — AI-assisted lead and workflow automation
