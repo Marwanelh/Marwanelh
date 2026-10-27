@@ -8,7 +8,7 @@ I build and ship software for real business workflows. My work spans product dis
 
 ### [WearOn - Virtual Fitting Studio](https://github.com/Marwanelh/wearon-virtual-fitting)
 
-A camera-based virtual fitting product built with Next.js and React. It includes garment uploads, browser-side image validation and resizing, signed invitation sessions, strict origin controls, persistent usage limits, failure recovery, CI, and 12 automated tests. The production inference adapter is private behind a replaceable backend boundary so deployment secrets and vendor-specific code never enter the public repository.
+A camera-based virtual fitting product built with Next.js and React, supported by a proprietary virtual try-on model I trained. It includes garment uploads, browser-side image validation and resizing, signed invitation sessions, strict origin controls, persistent usage limits, failure recovery, CI, and 12 automated tests. Model weights, training code, and the production inference adapter remain private behind a replaceable backend boundary.
 
 ### [Lead Workflow Engine](https://github.com/Marwanelh/lead-workflow-engine)
 
