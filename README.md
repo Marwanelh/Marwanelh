@@ -1,10 +1,14 @@
 # Hi, I'm Marwane Elhour
 
-**Applied AI & Full-Stack Engineer | Co-Founder of FillFlow**
+**Applied AI & Full-Stack Engineer | Product Builder | Co-Founder of FillFlow**
 
 I build and ship software for real business workflows. My work spans product discovery, frontend and backend development, API and CRM integrations, workflow automation, deployment, debugging, and client iteration.
 
 ## Public engineering proof
+
+### [WearOn - Virtual Fitting Studio](https://github.com/Marwanelh/wearon-virtual-fitting)
+
+A camera-based virtual fitting product built with Next.js and React. It includes garment uploads, browser-side image validation and resizing, signed invitation sessions, strict origin controls, persistent usage limits, failure recovery, CI, and 12 automated tests. The production inference adapter is private behind a replaceable backend boundary so deployment secrets and vendor-specific code never enter the public repository.
 
 ### [Lead Workflow Engine](https://github.com/Marwanelh/lead-workflow-engine)
 
